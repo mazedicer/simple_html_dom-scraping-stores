@@ -1,0 +1,7 @@
+<div style="width: 100%;
+			clear: both;
+			height: auto;
+			float: left;">
+<h5>{title}</h5>
+{content}
+</div>

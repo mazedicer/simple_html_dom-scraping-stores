@@ -1,0 +1,72 @@
+#standings_results_div {
+	float: left;
+    height: auto;
+    width: 100%;
+}
+.content-meta {
+	float:left;
+	width:55%;
+	height:auto;
+}
+.img-container {
+	float:left;
+	width:30%;
+	height:auto;
+}
+.img-container img {
+	width:80px;
+}
+.main_table {
+	font-size: 10pt;
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #999;
+    padding: 5px;
+    margin: 5px;
+}
+.main_table td {
+	padding: 3px;
+    border-top: 1px solid #999;
+	text-align: center;
+}
+.mod-data {
+	border: 1px solid #999;
+    margin: 0 auto;
+    width: 90%;
+}
+.module-list {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.schedule_table {
+	border: 1px solid #999;
+    border-collapse: collapse;
+    float: left;
+    height: auto;
+    width: 49%;
+}
+.schedule_table td {
+	padding: 3px;
+    border-top: 1px solid #999;
+	text-align: center;
+}
+.standings_div {
+	float: left;
+    height: auto;
+    width: 50%;
+}
+.sub-module {
+	border: 1px solid #999;
+    float: left;
+    margin: 3px;
+    padding: 3px;
+    text-align: center;
+    width: 300px;
+}
+.tab-container {
+	display: none;
+}
+.team_name {
+	font-weight: bold;
+}
